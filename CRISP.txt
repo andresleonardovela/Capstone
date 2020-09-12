@@ -1,0 +1,4 @@
+Every person that needs to move from a place to another one, develop a mental route to follow in order to reach the target place, howeverthere is a lot of possible choices to do, and many considerations to keep in mind. 
+It could seems like trivial choose the shortest route, however there are other issues to consider, such as how long this route can take, road conditions, hour, traffic and do not less important
+is this a safe route?. All this issues are take into account wheater for people that want to move but also for people in charge of the road's maintenance, emergency's teams, police and 
+goverment entities. 
