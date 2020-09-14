@@ -1,12 +1,14 @@
 The data provided contains 194673 records and 38 attributes. This dataset contains several variables present in every accident, however all of them could not be suitable for our work or could be very correlated, so we will select a subset.
 Therefore, the following attributes will be considered:
 
-INCKEY: Event Identificator
-SEVERITYCODE: This is important to know what kind of equipment and team is required to solve de emergency.
+INCKEY: Event Identificator, as our index.
+SEVERITYCODE: Is important to know what kind of equipment and team is required to solve the emergency.
 INCDTTM: The date and hour are very important to know when could happend a new emergency.
-INATTENTIONIND: This data is also important to determine in which zones the involved not took care of the situation, maybe much distraction on the zone, noises, lights, advertisemenens.
+INATTENTIONIND: This data is also important to determine in which zones the involved not took care of the situation, perhaps so much distraction on the zone, noises, lights, advertisemenens.
 WEATHER: The weather can trigger not suitable conditions on the roads, like poor visual and grip.
 ROADCOND: Good conditions make safer the roads. 
 LIGHTCOND: Good conditions of light always will be better to driving safety.
 HITPARKEDCAR: This will allow identify if the zones prone to have many parked cars have high likely to ve involved in an accident.
+
+
 
